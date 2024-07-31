@@ -1378,5 +1378,7 @@ http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/13837.ts
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/137.ts
 #EXTINF:-1 tvg-id="CO NICK 2" tvg-name="TeenNick Full HD" tvg-logo="" group-title=" ⭐️Infantiles",TeenNick Full HD
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/96.ts
+#EXTINF:-1 tvg-id="MaxANIME" tvg-name="MAX ANIME Full HD" tvg-logo="" group-title=" ⭐️Infantiles",MaxAnime Full HD
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 
 
