@@ -1,5 +1,4 @@
 #EXTM3U 
-#EXTM3U
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV ✪ | CL
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png", VClassicTV ✪ | CL
