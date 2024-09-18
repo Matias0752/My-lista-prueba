@@ -90,14 +90,14 @@ http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/13641.ts
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/14868.ts
 #EXTINF:-1 tvg-id="MEGA CL" tvg-name="CL: Mega Full HD" tvg-logo="http://logos.iptv.wtf/chile/mega.png" group-title=" ⭐️Chile Nacionales HD", CL: Mega Full HD
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/1.ts
-#EXTINF:-1 tvg-id="MEGAPLUS CL" tvg-name="CL: Mega Plus HD" tvg-logo="http://logos.iptv.wtf/chile/megaplus.png" group-title=" ⭐️Chile Nacionales HD", CL: Mega Plus HD
+#EXTINF:-1 tvg-id="CAROLINA TV" tvg-name="CL: Carolina TV" tvg-logo="https://www.carolina.cl/_templatesB/desktop/includes/img/header/carolinatvlogo.jpg?v=1" group-title=" ⭐️Chile Nacionales HD", CL:Carolina TV 
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/9748.ts
 #EXTINF:-1 tvg-id="NATGEO CL" tvg-name="CL: Nat Geo HD" tvg-logo="http://logos.iptv.wtf/culturales/natgeo.png" group-title=" ⭐️Chile Nacionales HD", CL: Nat Geo HD
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/51.ts
 #EXTINF:-1 tvg-id="NTV CL" tvg-name="CL: NTV Full HD" tvg-logo="" group-title=" ⭐️Chile Nacionales HD", CL: NTV Full HD
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/10500.ts
-#EXTINF:-1 tvg-id="NTV CL" tvg-name="CL: NTV HD" tvg-logo="" group-title=" ⭐️Chile Nacionales HD", CL: NTV HD
-http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/10501.ts
+#EXTINF:-1 tvg-id="BIO-BIO TV" tvg-name="CL: BIO-BIO TV" tvg-logo="https://play-lh.googleusercontent.com/tvBCAxfquk5_tDS0Qqjo2U2N70PR3vbzDCO3bdIWwDoCSn_sF3KljNhbGPq_GpCPSkc" group-title=" ⭐️Chile Nacionales HD", CL: BIO-BIO TV
+https://jireh-3-hls-video-cl-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8?dpssid=b2161309934966eaed5420b49&sid=ba5t1l1xb233589974466eaed55014bc&ndvc=0|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F128.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Frudo.video%2F
 #EXTINF:-1 tvg-id="NODATA" tvg-name="CL: Origen TV Full HD" tvg-logo="" group-title=" ⭐️Chile Nacionales HD", CL: Origen TV Full HD
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/14276.ts
 #EXTINF:-1 tvg-id="NODATA" tvg-name="CL: Origen TV HD" tvg-logo="" group-title=" ⭐️Chile Nacionales HD", CL: Origen TV HD
