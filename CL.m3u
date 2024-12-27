@@ -376,7 +376,6 @@ http://tv.teleclub.xyz/club/server_url/infantil/fanpoptv/index.m3u8
 #EXTINF:-1 tvg-id="NODATA" tvg-name="Cartoon Network *" tvg-logo="" group-title=" ⭐️Infantiles",Cartoon Network *
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/14935.ts
 #EXTINF:-1 tvg-id="CL CARTOON NETWORK" tvg-name="Cartoon Network Full HD" tvg-logo="http://logos.iptv.wtf/infantiles/cartoonnetwork.png" group-title=" ⭐️Infantiles",Cartoon Network Full HD
-http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/9528.ts
 http://tv.teleclub.xyz/club/server_2/infantil/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-id="NODATA" tvg-name="Cartoonito Full HD" tvg-logo="" group-title=" ⭐️Infantiles",Cartoonito Full HD
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/245.ts
@@ -418,10 +417,6 @@ https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", ZTV Anime ✪ | CL
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/SIMPSONS.png?raw=true" group-title="24_7",Los Simpsons
-http://tv.teleclub.xyz/club/server_2/24_7/lossimpsons/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/SOUTHPARK.png?raw=true" group-title="24_7",South Park
-http://tv.teleclub.xyz/club/server_2/24_7/southpark/index.m3u8
 #EXTINF:-1 tvg-id="1585" tvg-name="AniRetro" tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png", AniRetro ✪ | CL
 https://tv.streaming-chile.com:19360/8068/8068.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1086" tvg-name="ADN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ADN_Radio_Chile.svg/2560px-ADN_Radio_Chile.svg.png", ADN TV ✪ | CL
