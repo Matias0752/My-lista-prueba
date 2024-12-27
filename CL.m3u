@@ -1,44 +1,28 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="CANAL13C CL" tvg-name="CL: 13C HD" tvg-logo="http://logos.iptv.wtf/chile/13c.png" group-title=" ⭐️Chile Nacionales HD", CL: 13C HD
-http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/47.ts
 #EXTINF:-1 tvg-id="13 CULTURA CL" tvg-name="CL: Cámara de Diputados TV" tvg-logo="http://logos.iptv.wtf/chile/cdtv.png" group-title=" ⭐️Chile Nacionales HD", CL: Cámara de Diputados TV
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/8724.ts
 #EXTINF:-1 tvg-id="13 CULTURA CL" tvg-name="CL: Canal 13 Cultura" tvg-logo="https://logos.iptv.wtf/chile/13cultura.png" group-title=" ⭐️Chile Nacionales HD", CL: Canal 13 Cultura
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/14849.ts
 #EXTINF:-1 tvg-id="13 E CL" tvg-name="CL: Canal 13 Entretención" tvg-logo="https://logos.iptv.wtf/chile/13e.png" group-title=" ⭐️Chile Nacionales HD", CL: Canal 13 Entretención
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/14847.ts
-#EXTINF:-1 tvg-id="CANAL13 CL" tvg-name="CL: Canal 13 Full HD" tvg-logo="http://logos.iptv.wtf/chile/canal13.png" group-title=" ⭐️Chile Nacionales HD", CL: Canal 13 Full HD
-http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/3.ts
-#EXTINF:-1 tvg-id="CANAL13 CL" tvg-name="CL: Canal 13 HD" tvg-logo="http://logos.iptv.wtf/chile/canal13.png" group-title=" ⭐️Chile Nacionales HD", CL: Canal 13 HD
-http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/4.ts
-#EXTINF:-1 tvg-id="13 P CL" tvg-name="CL: Canal 13 Prime" tvg-logo="https://logos.iptv.wtf/chile/13p.png" group-title=" ⭐️Chile Nacionales HD", CL: Canal 13 Prime
-http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/14848.ts
 #EXTINF:-1 tvg-id="13 R CL" tvg-name="CL: Canal 13 Realities" tvg-logo="https://logos.iptv.wtf/chile/13r.png" group-title=" ⭐️Chile Nacionales HD", CL: Canal 13 Realities
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/14903.ts
-#EXTINF:-1 tvg-id="CHV CL" tvg-name="CL: CHV Full HD" tvg-logo="http://logos.iptv.wtf/chile/chv.png" group-title=" ⭐️Chile Nacionales HD", CL: CHV Full HD
-http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/5.ts
-#EXTINF:-1 tvg-id="CHV CL" tvg-name="CL: CHV HD" tvg-logo="http://logos.iptv.wtf/chile/chv.png" group-title=" ⭐️Chile Nacionales HD", CL: CHV HD
-http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/6.ts
-#EXTINF:-1 tvg-id="EENTERTAINMENT CL" tvg-name="CL: E! HD" tvg-logo="http://logos.iptv.wtf/entretenimiento/e.png" group-title=" ⭐️Chile Nacionales HD", CL: E! HD
-http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/13501.ts
-#EXTINF:-1 tvg-id="ELGOURMET CL" tvg-name="CL: El Gourmet HD" tvg-logo="http://logos.iptv.wtf/culturales/elgourmet.png" group-title=" ⭐️Chile Nacionales HD", CL: El Gourmet HD
-http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/9106.ts
-#EXTINF:-1 tvg-id="ETC CL" tvg-name="CL: ETC TV" tvg-logo="http://logos.iptv.wtf/chile/etc.png" group-title=" ⭐️Chile Nacionales HD", CL: ETC TV
-http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/1513.ts
-#EXTINF:-1 tvg-id="HBO CL" tvg-name="CL: HBO HD SUB" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo.png" group-title=" ⭐️Chile Nacionales HD", CL: HBO HD SUB
-http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/13503.ts
-#EXTINF:-1 tvg-id="HISTORY2 CL" tvg-name="CL: History 2 HD" tvg-logo="http://logos.iptv.wtf/culturales/history2.png" group-title=" ⭐️Chile Nacionales HD", CL: History 2 HD
-http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/14278.ts
-#EXTINF:-1 tvg-id="HISTORY CL" tvg-name="CL: History HD" tvg-logo="http://logos.iptv.wtf/culturales/history.png" group-title=" ⭐️Chile Nacionales HD", CL: History HD
-http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/12184.ts
+#EXTINF:-1 tvg-id="CANAL13 CL" tvg-name="CL: Canal 13 Full HD" tvg-logo="http://logos.iptv.wtf/chile/canal13.png" group-title=" ⭐️Chile Nacionales HD", CL: Canal 13 Full HD
+http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/3.ts
 #EXTINF:-1 tvg-id="LARED CL" tvg-name="CL: La Red" tvg-logo="http://logos.iptv.wtf/chile/lared.png" group-title=" ⭐️Chile Nacionales HD", CL: La Red
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/9758.ts
 #EXTINF:-1 tvg-id="LARED CL" tvg-name="CL: La Red HD" tvg-logo="http://logos.iptv.wtf/chile/lared.png" group-title=" ⭐️Chile Nacionales HD", CL: La Red HD
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/10.ts
+#EXTINF:-1 tvg-id="CHV CL" tvg-name="CL: CHV Full HD" tvg-logo="http://logos.iptv.wtf/chile/chv.png" group-title=" ⭐️Chile Nacionales HD", CL: CHV Full HD
+http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/5.ts
+#EXTINF:-1 tvg-id="CHV CL" tvg-name="CL: CHV HD" tvg-logo="http://logos.iptv.wtf/chile/chv.png" group-title=" ⭐️Chile Nacionales HD", CL: CHV HD
+http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/6.ts
 #EXTINF:-1 tvg-id="MEGA CL" tvg-name="CL: Mega *" tvg-logo="http://logos.iptv.wtf/chile/mega.png" group-title=" ⭐️Chile Nacionales HD", CL: Mega *
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/14868.ts
 #EXTINF:-1 tvg-id="MEGA CL" tvg-name="CL: Mega Full HD" tvg-logo="http://logos.iptv.wtf/chile/mega.png" group-title=" ⭐️Chile Nacionales HD", CL: Mega Full HD
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/1.ts
+#EXTINF:-1 tvg-id="TVN CL" tvg-name="CL: TVN Full HD" tvg-logo="http://logos.iptv.wtf/chile/tvn.png" group-title=" ⭐️Chile Nacionales HD", CL: TVN Full HD
+http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/7.ts
 #EXTINF:-1 tvg-id="CAROLINA TV" tvg-name="CL: Carolina TV" tvg-logo="https://www.carolina.cl/_templatesB/desktop/includes/img/header/carolinatvlogo.jpg?v=1" group-title=" ⭐️Chile Nacionales HD", CL:Carolina TV 
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?uid=YnBFJG5Oc0PHhwaiehxDQXYiTun61nBQ&sid=czaYdX8v9FlodSLmRqFE71E8JpfqaJIi&pid=mXR8npUy3n9fE1uE2TsgxpVLhnbKn5qw&an=screen&at=web-app&av=v6.0.109&ref=https%3A%2F%2Fwww.carolina.cl%2F&res=821x462&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1 tvg-id="NTV CL" tvg-name="CL: NTV Full HD" tvg-logo="" group-title=" ⭐️Chile Nacionales HD", CL: NTV Full HD
@@ -49,6 +33,18 @@ https://jireh-3-hls-video-cl-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/14880.ts
 #EXTINF:-1 tvg-id="13 CULTURA CL" tvg-name="CL: Rec TV HD" tvg-logo="http://logos.iptv.wtf/chile/rectv.png" group-title=" ⭐️Chile Nacionales HD", CL: Rec TV HD
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/52.ts
+#EXTINF:-1 tvg-id="ETC CL" tvg-name="CL: ETC TV" tvg-logo="http://logos.iptv.wtf/chile/etc.png" group-title=" ⭐️Chile Nacionales HD", CL: ETC TV
+http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/1513.ts
+#EXTINF:-1 tvg-id="EENTERTAINMENT CL" tvg-name="CL: E! HD" tvg-logo="http://logos.iptv.wtf/entretenimiento/e.png" group-title=" ⭐️Chile Nacionales HD", CL: E! HD
+http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/13501.ts
+#EXTINF:-1 tvg-id="ELGOURMET CL" tvg-name="CL: El Gourmet HD" tvg-logo="http://logos.iptv.wtf/culturales/elgourmet.png" group-title=" ⭐️Chile Nacionales HD", CL: El Gourmet HD
+http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/9106.ts
+#EXTINF:-1 tvg-id="HBO CL" tvg-name="CL: HBO HD SUB" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo.png" group-title=" ⭐️Chile Nacionales HD", CL: HBO HD SUB
+http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/13503.ts
+#EXTINF:-1 tvg-id="HISTORY2 CL" tvg-name="CL: History 2 HD" tvg-logo="http://logos.iptv.wtf/culturales/history2.png" group-title=" ⭐️Chile Nacionales HD", CL: History 2 HD
+http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/14278.ts
+#EXTINF:-1 tvg-id="HISTORY CL" tvg-name="CL: History HD" tvg-logo="http://logos.iptv.wtf/culturales/history.png" group-title=" ⭐️Chile Nacionales HD", CL: History HD
+http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/12184.ts
 #EXTINF:-1 tvg-id="SPACE CL" tvg-name="CL: Space HD" tvg-logo="http://logos.iptv.wtf/entretenimiento/space.png" group-title=" ⭐️Chile Nacionales HD", CL: Space HD
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/9709.ts
 #EXTINF:-1 tvg-id="STARCHANNELCHI CL" tvg-name="CL: Star Channel HD" tvg-logo="" group-title=" ⭐️Chile Nacionales HD", CL: Star Channel HD
@@ -63,8 +59,6 @@ http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/12.ts
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/8725.ts
 #EXTINF:-1 tvg-id="TVN CL" tvg-name="CL: TVN" tvg-logo="http://logos.iptv.wtf/chile/tvn.png" group-title=" ⭐️Chile Nacionales HD", CL: TVN
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/9050.ts
-#EXTINF:-1 tvg-id="TVN CL" tvg-name="CL: TVN Full HD" tvg-logo="http://logos.iptv.wtf/chile/tvn.png" group-title=" ⭐️Chile Nacionales HD", CL: TVN Full HD
-http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/7.ts
 #EXTINF:-1 tvg-id="NODATA" tvg-name="CL: UCV" tvg-logo="" group-title=" ⭐️Chile Nacionales HD", CL: UCV
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/14893.ts
 #EXTINF:-1 tvg-id="NODATA" tvg-name="CL: UCV HD" tvg-logo="" group-title=" ⭐️Chile Nacionales HD", CL: UCV HD
@@ -415,7 +409,11 @@ https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", ZTV Anime ✪ | CL
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Dramas Coreanos" tvg-name="Dramas Coreanos" tvg-logo="", Dramas Coreanos Tv ✪ | CL
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?advertisingId=&appName=web&appVersion=9.7.0-18c51860be5ddbebe9312bb3cd99cf9c4bcbd8d9&app_name=web&clientDeviceType=0&clientID=456dfd4e-d584-4cb9-8f2d-d8ee9a4a0f96&clientModelNumber=1.0.0&country=CL&deviceDNT=false&deviceId=456dfd4e-d584-4cb9-8f2d-d8ee9a4a0f96&deviceLat=-34.7400&deviceLon=-71.0100&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=131.0.0&marketingRegion=VE&serverSideAds=false&sessionID=7ee8871b-c409-11ef-ac46-d67f34cc7358&sid=7ee8871b-c409-11ef-ac46-d67f34cc7358&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjYyZWI3N2ZkLTJiMzUtNDRmOC1iYWY5LWRhOWI4ODNhZTU3YyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3ZWU4ODcxYi1jNDA5LTExZWYtYWM0Ni1kNjdmMzRjYzczNTgiLCJjbGllbnRJUCI6IjQ1LjE2MC4xOTEuNTQiLCJjaXR5IjoiQ2hpbWJhcm9uZ28iLCJwb3N0YWxDb2RlIjoiMzA5MDAwMCIsImNvdW50cnkiOiJDTCIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOi0zNC43NDAwMDE2Nzg0NjY4LCJkZXZpY2VMb24iOi03MS4wMTAwMDIxMzYyMzA0NywicHJlZmVycmVkTGFuZ3VhZ2UiOiJlcyIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMxLjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOS43LjAtMThjNTE4NjBiZTVkZGJlYmU5MzEyYmIzY2Q5OWNmOWM0YmNiZDhkOSIsImNsaWVudElEIjoiNDU2ZGZkNGUtZDU4NC00Y2I5LThmMmQtZDhlZTlhNGEwZjk2IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvU2FudGlhZ28iLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI0NTZkZmQ0ZS1kNTg0LTRjYjktOGYyZC1kOGVlOWE0YTBmOTYiLCJmd1ZjSUQyQ29wcGEiOiI0NTZkZmQ0ZS1kNTg0LTRjYjktOGYyZC1kOGVlOWE0YTBmOTYiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjQ1NmRmZDRlLWQ1ODQtNGNiOS04ZjJkLWQ4ZWU5YTRhMGY5NiIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMTUsMTAwMTYsMTAwMjAsMTAwMDAsMTAwMDksMTAwMDMsMTAwMTMsMTAwMTQifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpORFUyWkdaa05HVXRaRFU0TkMwMFkySTVMVGhtTW1RdFpEaGxaVGxoTkdFd1pqazIiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzM1MzU5NDUzLCJpYXQiOjE3MzUyNzMwNTMsImp0aSI6IjYyMzk1ZWZhLTI3OGQtNDBlMS05OTYzLTkyMWVjZDRmOTU2ZCJ9.w4lsCDjETU0ceeswqvQmL8Mo7T2049uZ6Dvl2f4pfq0&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEA4T006v0twBzoF1acjNpJ9LRSPSa5_EH-kUketlnpaii-TUM7IzwUcJGXv-ER8Cx7Jn8dwqmOV75-4R35uZX52Es9yVchJjrM6OWpi1Batr83R3EftEJBZStXJoIf6tugfCgKDj-mijPF3p26t0AlrJgu5V7Z1S2nndqpiGgbkhD5xY9YXI-nEKq9BX_iV4qNfMN5D0RYxJvp3BLFYyE_31cD5bZmOJ217zz8wGR-D397mzBEiuOWmoqR3uOsp8DCmYgE1r5quFqJOWTTaHVytx4j7Gl-TXjLBxNAwqBslR-45sOljLmjYRlhozevQuY8FQXQoftf_Vo5-hRjwMvAdXG26c0ekhV-36fD-VnuKNW3kijVUEaaRW-pSOb_YfxmP2-ait8v1mhYaOJeaH_dNwXp293Z89ql4K5vQZEbYLl9iV52kHkVOaVvASRAfFRWymNlohElNMFx8WhfgN1l2zDqKv9PBDilwqrgrGS0jePVuV4PwB4JebwhI9cznKownr_YSdaHPd3Q8gxiVonrrMwtvSNQ-GJRo9aKCKiqU3OATn529fs8TJzqE0gWKi92oa4MgFjH_lr3Qr0XwWMWzxtByFb1IyHSdLntop3F5Z1_sdFFEAHU0vjh2XEB3gJGdf1w8JHXMCZwxTy7HLACJ-CE7CEpY1qhfWkpEpSk4Y1bGYMwgAnoDYv01MX5evKF59vGYRgmjBBGOV6OERkBMVhuJhyVavaSINWSe3r1ifjLnTv9Kcgdp42C5Uh6DzIJfF_m6chf7HI4ObR9mIoOjw9B-H4diU9mVkr1CLN0fuRyC4ErR1rmi_ZygxuJw80WxLwZU18A1d56GiEsKrQFyHTpcv2XFmnwbfZS1tbsOpp6-chXcaifAlBAZSMhZ19rqJNCzaK3i4zdc_H-kRReSHeLuDzDRvKIlIN42tAveChpqJC2s_hOQLJQ7emLjbeiMyJT3G3peLaw5u4A59X1xsYbiLn8TwvCYHpirC7OhS0gzMU6dJHXbZg0mbrX8RgDwVbcXK5uxCd6lC4GhbukrvzW_GaJh7DQO-r2He2m5lubxw7t7hepAB_7w7Hd8OV8lGiltsF_5nio69nIzTLNYNN5eVn38KGahyufkDiNJtSkIjDDTJqRAvScNMUrp65cuy4ollMme3djCtO_1rlHPk6c-7Txlhw8LkT3MFUnjaXzN0JMI2wVB9iSwTW&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22505361f4-12ce-4faa-91ac-4348b23968f9%22%2Csu
 #EXTINF:-1 tvg-id="1585" tvg-name="AniRetro" tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png", AniRetro ✪ | CL
 https://tv.streaming-chile.com:19360/8068/8068.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1086" tvg-name="ADN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ADN_Radio_Chile.svg/2560px-ADN_Radio_Chile.svg.png", ADN TV ✪ | CL
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="499" tvg-name="Telesur" tvg-logo="https://cdn.m3u.cl/logo/499_Telesur.png", Telesur | VE
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
