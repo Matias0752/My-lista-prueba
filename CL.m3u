@@ -21,6 +21,8 @@ https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?
 https://jireh-3-hls-video-cl-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8?dpssid=b2161309934966eaed5420b49&sid=ba5t1l1xb233589974466eaed55014bc&ndvc=0|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F128.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Frudo.video%2F
 #EXTINF:-1 tvg-id="1086" tvg-name="ADN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ADN_Radio_Chile.svg/2560px-ADN_Radio_Chile.svg.png", ADN TV ✪ | CL
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="13 CULTURA CL" tvg-name="CL: Agricultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logotipo_radio_Agricultura.jpg/225px-Logotipo_radio_Agricultura.jpg" group-title=" ⭐️Chile Nacionales HD", CL: Agricultura TV
+https://jireh-1-hls-audio-cl-isp.dps.live/hls-audio/bfdec2347a82df9cd5d34ffdd11df6f3/agricultura/playlist/manifest/gotardisz/audio/now/livestream1.m3u8
 #EXTINF:-1 tvg-id="RECTV CL" tvg-name="CL: Rec TV" tvg-logo="http://logos.iptv.wtf/chile/rectv.png" group-title=" ⭐️Chile Nacionales HD", CL: Rec TV
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/14880.ts
 #EXTINF:-1 tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://cdn.m3u.cl/logo/27_Carolina_TV.png", Carolina TV | CL
