@@ -893,3 +893,4 @@ https://tv.streaming-chile.com:19360/8068/8068.m3u8?PlaylistM3UCL
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="dazn" tvg-name="Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png", DAZN | ES
 https://cdn21.vivozytv.com/eventos/tracks-v1a1/mono.m3u8?remote=45.160.191.54&token=7a31731c548d2b0986233128ecebb92fb5b69844-d16004d11a1596c8636e5b669c2bf3a6-1736104511-1736093711
+https://cdn8.vivozytv.com/hotflix/disney1/index.m3u8?token=1c7ffe9bd3404f6cc4865fe77d23e5101113b062-085ff07c7eeb19f970a97fac54be9fbc-1736104837-1736094037&remote=45.160.191.54
