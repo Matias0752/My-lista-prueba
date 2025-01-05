@@ -891,3 +891,5 @@ https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 https://tv.streaming-chile.com:19360/8068/8068.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="499" tvg-name="Telesur" tvg-logo="https://cdn.m3u.cl/logo/499_Telesur.png", Telesur | VE
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="dazn" tvg-name="Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png", DAZN | ES
+https://cdn21.vivozytv.com/eventos/tracks-v1a1/mono.m3u8?remote=45.160.191.54&token=7a31731c548d2b0986233128ecebb92fb5b69844-d16004d11a1596c8636e5b669c2bf3a6-1736104511-1736093711
