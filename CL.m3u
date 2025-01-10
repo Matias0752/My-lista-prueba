@@ -891,6 +891,5 @@ https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 https://tv.streaming-chile.com:19360/8068/8068.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="499" tvg-name="Telesur" tvg-logo="https://cdn.m3u.cl/logo/499_Telesur.png", Telesur | VE
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="dazn" tvg-name="Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png", DAZN | ES
-https://cale.pricesaskeloadsc.com/global/movistarligadecampeones/index.m3u8?token=25eb39318ab37a2fa8b3c6521960fcdf357113c2-ca-1736131538-1736095538
-https://cdn8.vivozytv.com/hotflix/disney1/index.m3u8?token=1c7ffe9bd3404f6cc4865fe77d23e5101113b062-085ff07c7eeb19f970a97fac54be9fbc-1736104837-1736094037&remote=45.160.191.54
+#EXTINF:-1 tvg-id="Kanade.cl" tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="Animation;Entertainment",Kanade (1080p)
+https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
