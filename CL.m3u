@@ -3,10 +3,6 @@
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/8724.ts
 #EXTINF:-1 tvg-id="13 CULTURA CL" tvg-name="CL: Canal 13 Cultura" tvg-logo="https://logos.iptv.wtf/chile/13cultura.png" group-title=" ⭐️Chile Nacionales HD", CL: Canal 13 Cultura
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/14849.ts
-#EXTINF:-1 tvg-id="13 E CL" tvg-name="CL: Canal 13 Entretención" tvg-logo="https://logos.iptv.wtf/chile/13e.png" group-title=" ⭐️Chile Nacionales HD", CL: Canal 13 Entretención
-http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/14847.ts
-#EXTINF:-1 tvg-id="13 R CL" tvg-name="CL: Canal 13 Realities" tvg-logo="https://logos.iptv.wtf/chile/13r.png" group-title=" ⭐️Chile Nacionales HD", CL: Canal 13 Realities
-http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/14903.ts
 #EXTINF:-1 tvg-id="CANAL13 CL" tvg-name="CL: Canal 13 Full HD" tvg-logo="http://logos.iptv.wtf/chile/canal13.png" group-title=" ⭐️Chile Nacionales HD", CL: Canal 13 Full HD
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/3.ts
 #EXTINF:-1 tvg-id="LARED CL" tvg-name="CL: La Red" tvg-logo="http://logos.iptv.wtf/chile/lared.png" group-title=" ⭐️Chile Nacionales HD", CL: La Red
