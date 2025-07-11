@@ -1,8 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="13 CULTURA CL" tvg-name="CL: Cámara de Diputados TV" tvg-logo="http://logos.iptv.wtf/chile/cdtv.png" group-title=" ⭐️Chile Nacionales HD", CL: Cámara de Diputados TV
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/8724.ts
-#EXTINF:-1 tvg-id="13 CULTURA CL" tvg-name="CL: Canal 13 Cultura" tvg-logo="https://logos.iptv.wtf/chile/13cultura.png" group-title=" ⭐️Chile Nacionales HD", CL: Canal 13 Cultura
-http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/14849.ts
 #EXTINF:-1 tvg-id="CANAL13 CL" tvg-name="CL: Canal 13 Full HD" tvg-logo="http://logos.iptv.wtf/chile/canal13.png" group-title=" ⭐️Chile Nacionales HD", CL: Canal 13 Full HD
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/3.ts
 #EXTINF:-1 tvg-id="LARED CL" tvg-name="CL: La Red" tvg-logo="http://logos.iptv.wtf/chile/lared.png" group-title=" ⭐️Chile Nacionales HD", CL: La Red
@@ -81,14 +79,6 @@ http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/33.ts
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/13891.ts
 #EXTINF:-1 tvg-id="ESPNCHI CL" tvg-name="CL: ESPN HD" tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png" group-title=" ⭐️ Deportes",CL: ESPN HD
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/31.ts
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espn4ab.png?raw=true" group-title="Deportes",ESPN 4
-http://tv.teleclub.xyz/club/server_1/deportes/espn4/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espn5.png?raw=true" group-title="Deportes",ESPN 5
-http://tv.teleclub.xyz/club/server_1/deportes/espn5/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espn6.png?raw=true" group-title="Deportes",ESPN 6
-http://tv.teleclub.xyz/club/server_1/deportes/espn6/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espn7.png?raw=true" group-title="Deportes",ESPN 7
-http://tv.teleclub.xyz/club/server_1/deportes/espn7/index.m3u8
 #EXTINF:-1 tvg-id="NODATA" tvg-name="Claro Sports" tvg-logo="" group-title=" ⭐️ Deportes",Claro Sports
 http://live.iptv.wtf:80/live/vzkfqbfm/m8O310eLjb/14028.ts
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dazn1.png?raw=true?raw=true" group-title="Deportes",DAZN 1
