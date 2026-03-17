@@ -1,1 +1,36 @@
+name: M3U AutoFix
 
+on:
+  schedule:
+    - cron: "0 * * * *"   # cada hora en punto
+  workflow_dispatch:        # también permite ejecutarlo manualmente desde GitHub
+
+jobs:
+  autofix:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # necesario para que el script pueda hacer push
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install requests beautifulsoup4
+
+      - name: Ejecutar AutoFix
+        env:
+          GITHUB_TOKEN_SECRET: ${{ secrets.M3U_TOKEN }}
+        run: python scripts/m3u_autofix.py
+
+      - name: Subir reporte HTML como artefacto
+        uses: actions/upload-artifact@v4
+        with:
+          name: reporte-${{ github.run_number }}
+          path: reporte.html
+          retention-days: 7
