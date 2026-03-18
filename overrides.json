@@ -1,1 +1,25 @@
+{
+  "_instrucciones": "Agrega aquí la URL manual para cualquier canal. La clave es el nombre exacto del canal tal como aparece en tu lista.m3u (sin los sufijos HD, ✪, | CL, etc). El script usará esta URL directamente sin buscar sustituto.",
 
+  "TVN 24 Horas": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
+  "Canal 13": "https://mdstrm.com/live-stream-playlist/57bf54f97b4f91f72e000000.m3u8",
+  "Carolina TV": "https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8",
+  "CL: CHV Full HD": "https://mdstrm.com/live-stream-playlist/5609a6b77b4f91e33b000002.m3u8",
+  "CL: Via X": "https://mdstrm.com/live-stream-playlist/57bff4f27b4f91f72e000002.m3u8",
+  "CL: Via X 2": "https://mdstrm.com/live-stream-playlist/57bff4f27b4f91f72e000003.m3u8",
+  "CL: ETC TV": "https://mdstrm.com/live-stream-playlist/5aa7e0cb8cac24bb7c000004.m3u8",
+  "Radio Romántica TV [CL]": "https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8",
+  "ZTV Anime ✪ | CL": "https://mitv.zplay.cl/Ztv/index.m3u8",
+  "Chile Informa ✪ | CL": "http://45.225.95.154:8081/mcg/chileinforma/playlist.m3u8",
+  "Corcubio TV | CL": "http://45.225.95.154:8081/mcg/corcubio/playlist.m3u8",
+  "ESPN Full HD": "",
+  "ESPN 2 Full HD": "",
+  "ESPN 3 HD": "",
+  "ESPN Premium HD": "",
+  "ESPN 4 HD": "",
+  "Disney Channel": "",
+  "Disney Jr HD": "",
+  "Nick Full HD": "",
+  "Nick HD": "",
+  "Discovery Kids Full HD *": ""
+}
