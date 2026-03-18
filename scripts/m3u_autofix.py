@@ -511,15 +511,62 @@ def main():
     print(f"\n      ✅ Activos : {len(canales) - len(caidos)}")
     print(f"      ❌ Caídos  : {len(caidos)}")
 
-    if not caidos:
-        print(f"\n      Todos los canales están activos.")
+    # 3. Aplicar overrides manuales primero
+    OVERRIDES_FILE = "overrides.json"
+    overrides = {}
+    if os.path.exists(OVERRIDES_FILE):
+        import json
+        try:
+            with open(OVERRIDES_FILE, encoding="utf-8") as f:
+                raw = json.load(f)
+            overrides = {k: v for k, v in raw.items() if k != "_instrucciones" and v}
+            print(f"\n[3/6] Overrides manuales cargados: {len(overrides)} entradas")
+        except Exception as e:
+            print(f"\n[3/6] Error leyendo overrides.json: {e}")
     else:
-        # 3. Construir pool de sustitutos
-        print(f"\n[3/6] Construyendo pool de sustitutos (listas públicas + webs)...")
+        print(f"\n[3/6] No se encontró overrides.json — se omite.")
+
+    # Aplicar overrides a canales caídos
+    n_override = 0
+    caidos_tras_override = []
+    for c in caidos:
+        # buscar por nombre exacto o por similitud alta
+        url_override = overrides.get(c["nombre"])
+        if not url_override:
+            for clave, url_ov in overrides.items():
+                if similitud(limpiar_nombre(c["nombre"]), limpiar_nombre(clave)) >= 0.90:
+                    url_override = url_ov
+                    break
+        if url_override:
+            print(f"  ✎ Override manual para: {c['nombre']}")
+            estado, codigo, ms = verificar_url(url_override, timeout=8)
+            if estado == "activo":
+                c.update({
+                    "url":              url_override,
+                    "estado":           "activo",
+                    "sustituido":       True,
+                    "sustituto_fuente": "Override manual (overrides.json)",
+                    "ms":               ms,
+                })
+                print(f"    ✅ Activo ({ms}ms)")
+                n_override += 1
+            else:
+                print(f"    ⚠️  Override caído ({codigo}) — pasando a búsqueda automática.")
+                caidos_tras_override.append(c)
+        else:
+            caidos_tras_override.append(c)
+
+    caidos = caidos_tras_override
+
+    if not caidos:
+        print(f"\n      Todos los canales caídos resueltos con overrides.")
+    else:
+        # 4. Construir pool de sustitutos
+        print(f"\n[4/6] Construyendo pool de sustitutos (listas públicas + webs)...")
         pool = construir_pool()
 
-        # 4. Primer intento: pool público
-        print(f"\n[4/6] Buscando en pool público...\n")
+        # 5. Primer intento: pool público
+        print(f"\n[5/6] Buscando en pool público...\n")
         sin_sustituto = []
         n_sust = 0
         for c in caidos:
